@@ -3,6 +3,10 @@ body {
 	color: #5c6369;
 }
 
+p {
+	line-height: 1.6em;
+}
+
 ul, li {
 	display: block;
 	padding: 0;
@@ -45,6 +49,12 @@ h1, h2, h3, h4, h5, h6 {
 	width: 200px;
 	border: 0;
 	margin-top: -5px;
+	text-align: center;
+}
+
+.cta:hover {
+	text-decoration: none;
+	color: #fff;
 }
 
 .book__icon {
@@ -64,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .title {
-	padding: 215px 0;
+	padding: 210px 0;
 }
 
 .title__heading {
@@ -119,8 +129,37 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: -5px;
 }
 
+.history {
+	margin-top: 30px;
+}
 
+.history__title {
+	font-size: 35px;
+	margin-bottom: 20px;
+}
 
+.history__text {
+	font-size: 14px;
+}
 
+.history__button {
+	width: 148px;
+	margin-top: 48px;
+}
 
+.about {
+	padding: 65px 0 100px;
+}
+
+.food-img {
+
+}
+
+.food-img__item {
+	margin-bottom: 10px;
+}
+
+.food-img-down {
+	margin-top: 50px;
+}
 
