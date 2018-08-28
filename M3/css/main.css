@@ -163,3 +163,43 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: 50px;
 }
 
+.special {
+	background: url('../img/third-bg.jpg') no-repeat center top;
+	padding-top: 80px;
+}
+
+.special-title {
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+}
+
+.food {
+	text-align: center;
+}
+
+.food__img {
+	margin-bottom: 45px;
+}
+
+.food__title {
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+
+.food__desc {
+	font-size: 14px;
+	padding: 0 50px;
+}
+
+.food__del {
+	text-transform: uppercase;
+	font-size: 13px;
+}
+
+
+
+
+
+
+
